@@ -1,0 +1,77 @@
+/*
+// Colores principales
+*/
+$color-fff: rgb(255, 255, 255);
+    $color-fff-3: rgba(255, 255, 255, 0.3);
+    $color-fff-5: rgba(255, 255, 255, 0.5);
+    $color-fff-8: rgba(255, 255, 255, 0.8);
+$color-blanco: rgb(255, 252, 246);
+    $color-blanco-3: rgba(255, 252, 246, 0.3);
+    $color-blanco-5: rgba(255, 252, 246, 0.5);
+    $color-blanco-8: rgba(255, 252, 246, 0.8);
+$color-gris: rgb(230, 230, 230);
+    $color-gris-3: rgba(230, 230, 230, 0.3);
+    $color-gris-5: rgba(230, 230, 230, 0.5);
+    $color-gris-8: rgba(230, 230, 230, 0.8);
+$color-negro: rgb(4, 4, 4);
+    $color-negro-3: rgba(4, 4, 4, 0.3);
+    $color-negro-5: rgba(4, 4, 4, 0.5);
+    $color-negro-8: rgba(4, 4, 4, 0.8);
+
+
+
+/*
+// Paleta de colores
+*/
+$color-amarillo: rgb(251, 249, 12);
+    $color-amarillo-3: rgba(251, 249, 12, 0.3);
+    $color-amarillo-5: rgba(251, 249, 12, 0.5);
+    $color-amarillo-8: rgba(251, 249, 12, 0.8);
+$color-durazno: rgb(252, 116, 108);
+    $color-durazno-3: rgba(252, 116, 108, 0.3);
+    $color-durazno-5: rgba(252, 116, 108, 0.5);
+    $color-durazno-8: rgba(252, 116, 108, 0.8);
+$color-azul: rgb(0, 187, 255);
+    $color-azul-3: rgba(0, 187, 255, 0.3);
+    $color-azul-5: rgba(0, 187, 255, 0.5);
+    $color-azul-8: rgba(0, 187, 255, 0.8);
+$color-verde: rgb(0, 192, 96);
+    $color-verde-3: rgba(0, 192, 96, 0.3);
+    $color-verde-5: rgba(0, 192, 96, 0.5);
+    $color-verde-8: rgba(0, 192, 96, 0.8);
+$color-rojo: rgb(255, 65, 56);
+    $color-rojo-3: rgba(255, 65, 56, 0.3);
+    $color-rojo-5: rgba(255, 65, 56, 0.5);
+    $color-rojo-8: rgba(255, 65, 56, 0.8);
+
+
+
+/*
+// Tipografias
+*/
+    // 
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+    // font-family: 'Oswald', sans-serif;
+    $font-primary: 'Oswald', sans-serif;
+
+    // 
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+    // font-family: 'Roboto', sans-serif;
+    $font-secondary: 'Roboto', sans-serif;
+
+
+/*
+// Tamaños de fuente
+*/
+$font-size-xxs:     1.5rem;
+$font-size-xs:      1.8rem;
+$font-size-s:   2rem;
+$font-size-m:  3rem;
+$font-size-l:   5rem;
+$font-size-xl:      8rem;
+$font-size-xxl:     12rem;
+
+/*
+// MARGENES
+*/
+$margin-sections-m: 6rem 0;
